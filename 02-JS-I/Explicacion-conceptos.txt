@@ -1,0 +1,8 @@
+Explicación de Conceptos
+
+Variables: Es un lugar donde se guarda un valor para poder usarlo después.
+String: Es la union de varios letras o números formando una sola palabra o texto.
+Funciones: La función es un objeto con el que se realizan tareas con las variables. Estas se realizan cargándoles argumentos que 
+           son las tareas a realizar por las variables y se espera que devuelvan un resultado de esas tarreas realizadas con el comando Return.
+Declaración If: Es la condicíon SI, para indicar que SI pasa esto haga tal cosa, sino que realice tal otra.
+Valores Booleanos: Son condiciones de verdad o falso, que se devuelven como resultado de la utilización del IF.
